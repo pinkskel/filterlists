@@ -104,8 +104,6 @@ $ping
 ||deadlinefunnel.com^$3p
 ||decacopy.com^
 ||delvenetworks.com^$3p,script
-||disqus.com^$3p
-||disquscdn.com^$3p
 ||dmca.com^$3p
 ||dmgmediaprivacy.co.uk^$3p
 ||donorbox.org^$3p
